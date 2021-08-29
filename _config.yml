@@ -1,13 +1,15 @@
-title: "Khok Hong Jing (Jingles)"
-tagline: "Writes about Machine Learning & Neuroscience"
-description: "Jingles writes about Machine Learning & Neuroscience. Curious and inquisitive with a constant desire to learn and pioneer new uses for machine learning."
-author: "Khok Hong Jing (Jingles)"
-image: "https://jinglescode.github.io/assets/img/hongjing.jpeg"
+title: "Raha Moosavi"
+tagline: "Writes about Data science & Machine Learning"
+description: "Raha writes about Data science & Machine Learning. Curious and inquisitive with a constant desire to learn and pioneer new uses for machine learning."
+author: "Raha Moosavi"
+image: "https://acse.github.io/assets/img/hongjing.jpeg"
 social:
   links:
-    - https://www.linkedin.com/in/jingles/
-    - https://github.com/jinglescode/
-    - https://medium.com/@jinglesnote
+    - https://www.linkedin.com/in/raha-moosavi-9ba72a53/
+    - https://stackoverflow.com/users/15148200/raha-moosavi
+    - https://github.com/acse-srm3018
+    - https://www.researchgate.net/profile/Raha-Moosavi
+    - https://scholar.google.nl/citations?user=n33QYPIAAAAJ&hl=en
 
 collections:
   research:
@@ -22,7 +24,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   
-url: "https://jinglescode.github.io"
+url: "https://acse-srm3018.github.io"
 
 paginate: 21
 paginate_path: "/page:num/"
