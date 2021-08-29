@@ -1,10 +1,10 @@
-# About Jingles
-Hi, I'm Hong Jing, you can call me Jingles. A data scientist with five years of machine learning industry experience in the area of natural language processing and recommendation systems. Working on a range of classification and optimisation problems. Ability to deliver innovative solutions accurately and efficiently solve challenging business problems. Nimble and agile professional to deliver solutions in a rapidly changing environment. Curious and inquisitive with a constant desire to learn and pioneer new uses for machine learning. [[Read More](https://jinglescode.github.io/)]
+# About Raha
+Hi, I'm Hong Jing, you can call me Jingles. A data scientist with five years of machine learning industry experience in the area of natural language processing and recommendation systems. Working on a range of classification and optimisation problems. Ability to deliver innovative solutions accurately and efficiently solve challenging business problems. Nimble and agile professional to deliver solutions in a rapidly changing environment. Curious and inquisitive with a constant desire to learn and pioneer new uses for machine learning. [[Read More](https://acse-srm3018.github.io/)]
 
-[Connect via LinkedIn](https://www.linkedin.com/in/jingles/) |
-[Articles on Medium](https://medium.com/@jinglesnote) |
-[Demos on Github](https://jinglescode.github.io/demos/) |
-[Repos on Github](https://github.com/jinglescode)
+[Connect via LinkedIn](https://www.linkedin.com/in/raha-moosavi-9ba72a53/) |
+[Articles on Medium](https://medium.com/) |
+[Demos on Github](https://acse-srm3018.github.io/) |
+[Repos on Github](https://github.com/acse-srm3018)
 
 # Useful tools
 - [Bulk Resize Photos](https://bulkresizephotos.com/)
