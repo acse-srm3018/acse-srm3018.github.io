@@ -1,7 +1,7 @@
 - name: Sentence Similarity with TensorFlow.js
-  description: Extract embeddings and group sentences with universal sentence encoder package from TensorFlow.js.
-  repo: https://github.com/jinglescode/textual-similarity-universal-sentence-encoder
-  site: https://jinglescode.github.io/textual-similarity-universal-sentence-encoder
+  description: A driverless car behavioral cloning model using TensorFlow and Keras.
+  repo: https://github.com/acse-srm3018/Driverless_Car
+  site: https://github.com/acse-srm3018/Driverless_Car
   story: https://jinglescode.github.io/2020/02/10/build-textual-similarity-analysis-web-app/
   image: https://jinglescode.github.io/assets/img/posts/build-textual-similarity-analysis-web-app-01-mini.jpg
 - name: Reinforcement Learning Tic Tac Toe with Value Function
