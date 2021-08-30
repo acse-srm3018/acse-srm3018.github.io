@@ -9,7 +9,7 @@
   repo: https://github.com/acse-srm3018/DeeplearningProxy
   site: https://github.com/acse-srm3018/DeeplearningProxy
   story: https://jinglescode.github.io/2019/06/30/reinforcement-learning-value-function/
-  image: https://jinglescode.github.io/assets/img/posts/rl-value-func-00-mini.jpg
+  image: https://github.com/acse-srm3018/acse-srm3018.github.io/blob/master/assets/img/posts/compare-pressure-map.jpg
 - name: Traffic sign classification
   description: Classification of 43 different traffic signs using convolution neural network.
   repo: https://github.com/acse-srm3018/Traffic_Sign_Classification
