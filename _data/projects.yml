@@ -18,7 +18,7 @@
   image: https://github.com/acse-srm3018/acse-srm3018.github.io/blob/master/assets/img/traffic_sign_classification_dataset.jpg
 - name: X-Ray lung image classification
   description: classification a dataset of X-Ray lung images into 4 classes. The 4 classes are: 1-Covid-19, 2-Pneumonia, 3-Normal, 4-Lung opacity.
-  repo: https://github.com/jinglescode/phrases-extraction-wordcloud
-  site: https://jinglescode.github.io/phrases-extraction-wordcloud
+  repo: https://github.com/acse-2020/acse-4-x-ray-classification-inception
+  site: https://github.com/acse-2020/acse-4-x-ray-classification-inception
   story: https://jinglescode.github.io/2017/10/01/extract-phrases-display-wordcloud/
   image: https://jinglescode.github.io/assets/img/posts/extract-phrases-display-wordcloud-01-mini.jpg
