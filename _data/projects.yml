@@ -15,7 +15,7 @@
   repo: https://github.com/acse-srm3018/Traffic_Sign_Classification
   site: https://github.com/acse-srm3018/Traffic_Sign_Classification
   story: https://jinglescode.github.io/2019/05/17/time-series-forecasting-with-tensorflow-js/
-  image: https://jinglescode.github.io/assets/img/posts/time-series-00-mini.jpg
+  image: https://github.com/acse-srm3018/acse-srm3018.github.io/blob/master/assets/img/traffic_sign_classification_dataset.jpg
 - name: Phrases extraction and Word Cloud
   description: Extracting n-grams from text and display in beautiful D3 word cloud.
   repo: https://github.com/jinglescode/phrases-extraction-wordcloud
