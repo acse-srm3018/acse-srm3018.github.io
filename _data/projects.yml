@@ -5,15 +5,15 @@
   story: https://jinglescode.github.io/2020/02/10/build-textual-similarity-analysis-web-app/
   image: https://github.com/acse-srm3018/acse-srm3018.github.io/blob/master/assets/img/posts/driverless_car_project.Png
 - name: Deep learning proxy of reservoir simulation
-  description: A deep learning based proxy model to use as reservoir simulation.
+  description: Building deep learning based proxy model as reservoir simulation using Attention Recurrent Residual Neural Network and Long Short-Term Memory(LSTM) with TensorFlow framework.
   repo: https://github.com/acse-srm3018/DeeplearningProxy
   site: https://github.com/acse-srm3018/DeeplearningProxy
   story: https://jinglescode.github.io/2019/06/30/reinforcement-learning-value-function/
   image: https://jinglescode.github.io/assets/img/posts/rl-value-func-00-mini.jpg
-- name: Time Series Forecasting With TensorFlow.Js
-  description: Pull stock prices from online API and perform predictions using Recurrent Neural Network and Long Short-Term Memory (LSTM) with TensorFlow.js framework.
-  repo: https://github.com/jinglescode/time-series-forecasting-tensorflowjs
-  site: https://jinglescode.github.io/time-series-forecasting-tensorflowjs
+- name: Traffic sign classification
+  description: Classification of 43 different traffic signs using convolution neural network.
+  repo: https://github.com/acse-srm3018/Traffic_Sign_Classification
+  site: https://github.com/acse-srm3018/Traffic_Sign_Classification
   story: https://jinglescode.github.io/2019/05/17/time-series-forecasting-with-tensorflow-js/
   image: https://jinglescode.github.io/assets/img/posts/time-series-00-mini.jpg
 - name: Phrases extraction and Word Cloud
