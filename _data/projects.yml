@@ -16,8 +16,8 @@
   site: https://github.com/acse-srm3018/Traffic_Sign_Classification
   story: https://jinglescode.github.io/2019/05/17/time-series-forecasting-with-tensorflow-js/
   image: https://github.com/acse-srm3018/acse-srm3018.github.io/blob/master/assets/img/traffic_sign_classification_dataset.jpg
-- name: Phrases extraction and Word Cloud
-  description: Extracting n-grams from text and display in beautiful D3 word cloud.
+- name: X-Ray lung image classification
+  description: classification a dataset of X-Ray lung images into 4 classes. The 4 classes are: 1-Covid-19, 2-Pneumonia, 3-Normal, 4-Lung opacity.
   repo: https://github.com/jinglescode/phrases-extraction-wordcloud
   site: https://jinglescode.github.io/phrases-extraction-wordcloud
   story: https://jinglescode.github.io/2017/10/01/extract-phrases-display-wordcloud/
