@@ -1,9 +1,9 @@
-- name: Sentence Similarity with TensorFlow.js
+- name: Driverless car model
   description: A driverless car behavioral cloning model using TensorFlow and Keras.
   repo: https://github.com/acse-srm3018/Driverless_Car
   site: https://github.com/acse-srm3018/Driverless_Car
   story: https://jinglescode.github.io/2020/02/10/build-textual-similarity-analysis-web-app/
-  image: https://jinglescode.github.io/assets/img/posts/build-textual-similarity-analysis-web-app-01-mini.jpg
+  image: https://github.com/acse-srm3018/acse-srm3018.github.io/blob/master/assets/img/posts/driverless_car_project.Png
 - name: Reinforcement Learning Tic Tac Toe with Value Function
   description: A reinforcement learning algorithm for agents to learn the tic-tac-toe, using the value function.
   repo: https://github.com/jinglescode/reinforcement-learning-tic-tac-toe
