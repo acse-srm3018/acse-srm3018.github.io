@@ -1,1 +1,1 @@
-git pull https://github.com/jinglescode/jinglescode.github.io.git master
+git pull https://github.com/acse-srm3018/acse-srm3018.github.io.git master
